@@ -30,3 +30,5 @@ Pour selectionner seulement les quinze premiers paiements pour la date du 14/02/
   " WHERE  ( " où "pour filtrer les enregistrements.) ((la column Name)) Opérateurs de comparaisons et ce qui est rechercher.
   " ORDER BY ( permet de trier les lignes dans un résultat. ) la column puis DESC (inverser l’ordre) ou ASC (classés par ordre ascendant)
   " LIMT (pour spécifier le nombre maximum de résultats que l’ont souhaite obtenir.) puis le nombre .
+
+![alt mon arbre](diagram_sakila.png)
